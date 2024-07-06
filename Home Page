@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eve's Education Language Station</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Eve's Education Language Station</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Me</a></li>
+                <li><a href="services.html">Tutoring Services</a></li>
+                <li><a href="booking.html">Booking</a></li>
+                <li><a href="testimonials.html">Testimonials</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Personalized Tutoring for K-12 Students</h2>
+            <p>I am Eve, a dedicated and experienced teacher based in Alberta. With six years of teaching experience across grades K-12, I offer personalized tutoring sessions tailored to meet your child's educational needs.</p>
+            <p><strong>Services Offered:</strong></p>
+            <ul>
+                <li>K-6 Tutoring in all subjects</li>
+                <li>Grades 7-12 Tutoring in English, Social Studies, and Spanish</li>
+            </ul>
+            <p>Rates: $45 per session</p>
+            <p>Locations: Online, Strathcona Public Library, Stanley Milner Library</p>
+            <p><a href="booking.html">Book a Session Now!</a></p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Eve's Education Language Station</p>
+    </footer>
+</body>
+</html>
