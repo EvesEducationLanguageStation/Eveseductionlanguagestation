@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me - Eve's Education Language Station</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>About Me</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Me</a></li>
+                <li><a href="services.html">Tutoring Services</a></li>
+                <li><a href="booking.html">Booking</a></li>
+                <li><a href="testimonials.html">Testimonials</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Meet Eve</h2>
+            <p>Hello! My name is Eve, and I am passionate about education. I have been teaching for six years, and I hold a Bachelor of Education. Throughout my career, I have taught students from Kindergarten to Grade 12, and I specialize in creating engaging and effective learning experiences.</p>
+            <h3>Teaching Experience:</h3>
+            <ul>
+                <li>6 years of teaching experience in Alberta</li>
+                <li>Experienced in teaching all subjects K-6</li>
+                <li>Specialized in English, Social Studies, and Spanish for grades 7-12</li>
+            </ul>
+            <h3>Qualifications:</h3>
+            <ul>
+                <li>Bachelor of Education</li>
+                <li>Extensive experience with diverse student groups</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Eve's Education Language Station</p>
+    </footer>
+</body>
+</html>
